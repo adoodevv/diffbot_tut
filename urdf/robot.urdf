@@ -7,9 +7,7 @@
     
     <!-- Base link -->
 
-    <link name="base_link">
-
-    </link>
+    <link name="base_link" />
 
     <!-- Chassis link -->
 
